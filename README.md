@@ -19,7 +19,7 @@
 
 1. 克隆本仓库（或下载源代码）：
 ```bash
-git clone https://github.com/yourusername/character_role_play.git
+git clone https://github.com/qiu-jinhui/character_role_play.git
 cd character_role_play
 ```
 
